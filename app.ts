@@ -11,9 +11,6 @@ console.log(arr02); //(2) [22, 'hello'];
 
 
 
-
-
-
 // const cort01 : [string, boolean] = ['hello', false];
 // console.log(cort01); //(2) ['hello', false]
 
