@@ -2,8 +2,6 @@
 //samples 
 
 
-
-
 const arr01 : (string | number)[] = [22, 'hello'];
 console.log(arr01); //(2) [22, 'hello'];
 
