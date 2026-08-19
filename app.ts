@@ -1,7 +1,6 @@
 const arr01 : (string | number)[] = [22, 'hello'];
 console.log(arr01); //(2) [22, 'hello'];
 
-
 const arr02 : Array<string | number> = [22, 'hi'];
 console.log(arr02); //(2) [22, 'hello'];
 
